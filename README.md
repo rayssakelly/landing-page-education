@@ -1,1 +1,1 @@
-# landing-page-education
+# Landing Page Education
