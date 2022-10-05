@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+ul li {
+    display: flex;
+    padding: 0 33px;
+    align-items: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+#logo {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 48px;
+    color: #000;
+    overflow: hidden;
+    display: flex;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    top: 65px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+}
+
+
+header nav{
+    display: flex;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.1rem;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}   
+    
+
+nav span {
+    display: flex;
+}
+
+
+#btn-nav {
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #8D5EF2;
+    border-radius: 15px;
+    width: 115px;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+}
+
+
+
+#navbar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+main section{
+    width: 614px;
+    padding: 87px 0 0 90px;
+}
+
+
+main section h2{
+    font-size: 3.2rem;
+    font-family: 'Cabin', sans-serif;
+}
+
+
+main section p{
+    font-size: 1.3rem;
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 25px;
+}
+
+
+#button{
+    margin: 40px;
+    text-align: right;
+}
+
+
+#btn-main{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #8D5EF2;
+    border-radius: 15px;  
+    text-align: center;
+    padding: 13px 25px;
+    text-decoration: none;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+main aside img{
+    width: 400px;
+    margin-top: 120px;
+}
+
