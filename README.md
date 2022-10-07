@@ -3,17 +3,17 @@
 
 ![preview](.github/preview-landing.png)
 
-[:link: Clique aqui para acessar o projeto](https://rayssakelly.github.io/landing-page-education/)
+[:link: Click here](https://rayssakelly.github.io/landing-page-education/)
 
 <br>
 
-## :woman_technologist: Tecnologias 
+## :woman_technologist: Technologies
 
 - Figma
 - HTML
 - CSS
-- Git e GitHub
+- Git and GitHub
 
-## 🗣️ Contato
+## 🗣️ Contact
 <p> 📫 arayssacontato@gmail.com </p>
 <p> 👩‍ https://www.linkedin.com/in/rayssa-kelly-1b6b13207/ </p>
